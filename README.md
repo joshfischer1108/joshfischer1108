@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Articles
+[Building and deploying a smart contract with OpenZepplin](https://dev.to/joshfischer1108/building-and-deploying-a-smart-contract-with-openzepplin-and-solidity-in-less-than-10-minutes-45co)
