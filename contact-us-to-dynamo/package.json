@@ -1,0 +1,18 @@
+{
+  "name": "contact-us-to-dynamo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/write-to-dynamo.mjs",
+  "scripts": {
+    "dev": "node src/write-to-dynamo.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.721.0",
+    "@aws-sdk/lib-dynamodb": "^3.721.0",
+    "uuid": "^11.0.4"
+  }
+}
