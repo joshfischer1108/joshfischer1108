@@ -7,7 +7,7 @@ I build **secure systems that move money and data safely**, and I believe the fu
 ### 🛠️ What I’m working on
 - **[BirdyFoot Systems](https://birdyfoot.com/)** – consulting and building secure infrastructure for high-velocity teams  
 - **[TwigBush](https://github.com/TwigBush)** – open-source [GNAP (Grant Negotiation and Authorization Protocol)](https://datatracker.ietf.org/doc/html/rfc9635) engine built in Go  
-  → A new foundation for **agentic commerce**, **delegated trust**, and **secure AI transactions**
+  → A new foundation for **delegated trust**, and **secure AI transactions**
 
 ---
 
@@ -25,15 +25,14 @@ I build **secure systems that move money and data safely**, and I believe the fu
 
 ---
 
-### 🌍 In the open
-I’m building everything transparently — join the conversation:
+### 🌍 Join the conversation
 - 🧩 Discord: [BirdyFoot Community](https://discord.gg/TGUCQBerDG)
 - 🐦 Twitter/X: [@joshfischer1108](https://x.com/joshfischer1108)
 - 💬 LinkedIn: [Josh Fischer](https://www.linkedin.com/in/joshfischer1108/)
 
 ---
 
-> “If Clint Eastwood built open-source authorization, it’d look like TwigBush: tough, secure, and ready for the wild west of agentic commerce.”
+> “If Clint Eastwood built open-source authorization, it’d look like TwigBush: tough, secure, and ready for the wild west of agentic transactions.”
 
 ---
 
@@ -42,12 +41,12 @@ I’m building everything transparently — join the conversation:
 | Project | Description | Tech |
 |----------|--------------|------|
 | 🪶 **TwigBush** | GNAP Authorization Server & CLI (Go + chi + Cobra) | Go, OpenFGA, SSE |
-| 💳 **BirdyFoot Payments** | Secure Agentic Commerce Layer for Trust |
+| 💳 **BirdyFoot Payments** | Secure Agentic Transaction Layer for Trust |
 | 🧭 **Infra Audits** | Security posture assessments and Okta implementations for firms | AWS, Azure, GCP Terraform |
 
 ---
 
 ### 🧭 Let’s connect
-If you’re building **secure agents**, **payments infrastructure**, or **authorization systems**, I’d love to talk.  
+If you’re building **secure agents**, **payments infrastructure**, **next generation systems** or **authorization systems**, I’d love to talk.  
 Check out what I’m building, or drop by the Discord.
 
