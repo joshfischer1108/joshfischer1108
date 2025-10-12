@@ -33,7 +33,7 @@ I’m building everything transparently — join the conversation:
 
 ---
 
-> “If Clint Eastwood built open-source authorization, it’d look like TwigBush — tough, secure, and ready for the wild west of agentic commerce.”
+> “If Clint Eastwood built open-source authorization, it’d look like TwigBush: tough, secure, and ready for the wild west of agentic commerce.”
 
 ---
 
