@@ -28,8 +28,8 @@ I build **secure systems that move money and data safely**, and I believe the fu
 ### 🌍 In the open
 I’m building everything transparently — join the conversation:
 - 🧩 Discord: [BirdyFoot Community](https://discord.gg/TGUCQBerDG)
-- 🐦 Twitter/X: [@joshfischer1108](https://twitter.com/joshfischerio)
-- 💬 LinkedIn: [Josh Fischer](https://www.linkedin.com/in/joshfischerio/)
+- 🐦 Twitter/X: [@joshfischer1108](https://x.com/joshfischer1108)
+- 💬 LinkedIn: [Josh Fischer](https://www.linkedin.com/in/joshfischer1108/)
 
 ---
 
