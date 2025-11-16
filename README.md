@@ -29,16 +29,6 @@ I build **secure systems that move money and data safely**, and I believe the fu
 
 ---
 
-### ⚙️ Featured Projects
-
-| Project | Description | Tech |
-|----------|--------------|------|
-| 🪶 **TwigBush** | GNAP Authorization Server & CLI (Go + chi + Cobra) | Go, OpenFGA, SSE |
-| 💳 **BirdyFoot Payments** | Secure Agentic Transaction Layer for Trust |
-| 🧭 **Infra Audits** | Security posture assessments and Okta implementations for firms | AWS, Azure, GCP Terraform |
-
----
-
 ### 🧭 Let’s connect
 If you’re building **secure agents**, **payments infrastructure**, **next generation systems** or **authorization systems**, I’d love to talk.  
 Check out what I’m building, or drop by the Discord.
