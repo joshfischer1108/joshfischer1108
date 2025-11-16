@@ -5,7 +5,7 @@ I build **secure systems that move money and data safely**, and I believe the fu
 ---
 
 ### 🛠️ What I’m working on
-- **[BirdyFoot Systems](https://birdyfoot.com/)** – consulting and building secure infrastructure for high-velocity teams  
+- **[BirdyFoot](https://birdyfoot.com/)** – consulting and building secure infrastructure for high-velocity teams  
 - **[TwigBush](https://github.com/TwigBush)** – open-source [GNAP (Grant Negotiation and Authorization Protocol)](https://datatracker.ietf.org/doc/html/rfc9635) engine built in Go  
   → A new foundation for **delegated trust**, and **secure AI transactions**
 - **[The Orange Stack](https://orangestack.substack.com/?utm_campaign=github)** A Substack about cybersecurity and where the next generation of systems may be going. 
