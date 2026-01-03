@@ -5,7 +5,7 @@ I build **secure systems that move money and data safely**, and I believe the fu
 ---
 
 ### 🛠️ What I’m working on
-- **[BirdyFoot](https://birdyfoot.com/)** – consulting and building secure infrastructure for high-velocity teams.
+- **[BirdyFoot](https://birdyfoot.com/)** 
 
 ---
 
