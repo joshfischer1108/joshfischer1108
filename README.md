@@ -10,7 +10,7 @@ I build **secure systems that move money and data safely**, and I believe the fu
 ---
 
 ### 🚀 Quick facts
-- Ex-**Mastercard, Amazon, Twitter** consultant
+- Ex-**Mastercard, Amazon, Ring** consultant, **Apache** open-source committer.
 - Now designing the **secure dynamic infra layer** under AI agents and fintech platforms.
   
 ---
