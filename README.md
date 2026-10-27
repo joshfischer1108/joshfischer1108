@@ -5,5 +5,6 @@ If you’re building **secure agents**, **payments infrastructure**, **next gene
 
 - 🐦 BirdyFoot: [BirdyFoot](https://birdyfoot.com/)
 - 💬 LinkedIn: [Josh Fischer](https://www.linkedin.com/in/joshfischer1108/)
+- 🎥 YouTube: [joshfischer1108](https://www.youtube.com/@joshfischer1108)
 
 
